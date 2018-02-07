@@ -11,7 +11,7 @@ The relationship between all the participating services are described by a singl
 
 ![Orchestration](https://user-images.githubusercontent.com/14869583/35914516-8647ac3e-0c29-11e8-9ff1-049efcb90bb7.png)
 
-##Service Choreography
+## Service Choreography
 
 Service choreography is a global description of the participating services, which is defined by exchange of messages, rules of interaction and agreements between two or more endpoints. Choreography employs a decentralized approach for service composition.
 
