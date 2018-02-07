@@ -9,9 +9,7 @@ Basic technologies such as (XML, SOAP, WSDL) provide means to describe, locate, 
 Service orchestration represents a single centralized executable business process (the orchestrator) that coordinates the interaction among different services. The orchestrator is responsible for invoking and combining the services.
 The relationship between all the participating services are described by a single endpoint (i.e., the composite service). The orchestration includes the management of transactions between individual services. Orchestration employs a centralized approach for service composition.
 
-<br>
-![Optional Text](C:/Users/bhawani.singh/Desktop/NTE2 HUB MF API/ServiceOrchestration.png)
-<br>
+![Orchestration](https://user-images.githubusercontent.com/14869583/35914516-8647ac3e-0c29-11e8-9ff1-049efcb90bb7.png)
 
 ##Service Choreography
 Service choreography is a global description of the participating services, which is defined by exchange of messages, rules of interaction and agreements between two or more endpoints. Choreography employs a decentralized approach for service composition.
