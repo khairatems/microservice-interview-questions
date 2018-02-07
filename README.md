@@ -12,10 +12,9 @@ The relationship between all the participating services are described by a singl
 ![Orchestration](https://user-images.githubusercontent.com/14869583/35914516-8647ac3e-0c29-11e8-9ff1-049efcb90bb7.png)
 
 ##Service Choreography
+
 Service choreography is a global description of the participating services, which is defined by exchange of messages, rules of interaction and agreements between two or more endpoints. Choreography employs a decentralized approach for service composition.
 
-<br>
-![Optional Text](C:/Users/bhawani.singh/Desktop/NTE2 HUB MF API/ServiceChoreography.png)
-<br>
+![Choreography](https://user-images.githubusercontent.com/14869583/35914573-b5bafdea-0c29-11e8-98c0-6d3870cafe5f.png)
 
 The choreography describes the interactions between multiple services, where as orchestration represents control from one party's perspective. This means that a choreography differs from an orchestration with respect to where the logic that controls the interactions between the services involved should reside.
